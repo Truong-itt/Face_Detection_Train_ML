@@ -20,19 +20,23 @@ This project demonstrates the use of machine learning techniques, specifically c
    git clone https://github.com/<your-github-username>/Face_Detection_Train_ML.git
    cd Face_Detection_Train_ML
 2. **Set up a Python environment:**
+   ```bash
    python -m venv .venv
    .venv\Scripts\activate  # On Windows
    source .venv/bin/activate  # On Unix or MacOS
-3. **Install dependencies:**
+4. **Install dependencies:**
+   ```bash
    pip install -r requirements.txt
-4. **Download the dataset:**
+5. **Download the dataset:**
    https://drive.google.com/drive/folders/1Vs16_E1YhjQFdVYMeV8dTDARkt05ghUQ?usp=sharing
    
 ## Usage
 
 1. **Train the model:**
+   ```bash
    python model_building.py
-2. **Test the model on real-time video:**
+3. **Test the model on real-time video:**
+   ```bash
    python test_model.py
 
 
