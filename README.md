@@ -25,7 +25,7 @@ This project demonstrates the use of machine learning techniques, specifically c
    source .venv/bin/activate  # On Unix or MacOS
 3. **Install dependencies:**
    pip install -r requirements.txt
-4. **Download the dataset**
+4. **Download the dataset:**
    https://drive.google.com/drive/folders/1Vs16_E1YhjQFdVYMeV8dTDARkt05ghUQ?usp=sharing
    
 ## Usage
