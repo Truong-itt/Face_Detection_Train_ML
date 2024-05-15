@@ -27,7 +27,7 @@ This project demonstrates the use of machine learning techniques, specifically c
    pip install -r requirements.txt
 4. **Download the dataset**
    https://drive.google.com/drive/folders/1Vs16_E1YhjQFdVYMeV8dTDARkt05ghUQ?usp=sharing
-#Usage
+##Usage
 1. **Train the model:**
    python model_building.py
 2. **Test the model on real-time video:**
