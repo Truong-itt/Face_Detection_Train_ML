@@ -1,4 +1,4 @@
-# Face Detection From Video - Machine Learning Training Model
+# Face Detection - Machine Learning Training Model
 
 This project demonstrates the use of machine learning techniques, specifically convolutional neural networks (CNNs), to detect human faces in video streams using Python, OpenCV, and TensorFlow. The system is trained on a custom dataset that is suitable for further development for various face recognition applications.
 
